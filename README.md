@@ -1,2 +1,2 @@
 # Aurora
-Write yet another runner
+Yet another runner
